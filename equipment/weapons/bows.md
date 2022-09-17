@@ -2,7 +2,6 @@
 
 ## 5 Stars
 
-### Amos' Bow
 
 {% tabs %}
 {% tab title="Description" %}
